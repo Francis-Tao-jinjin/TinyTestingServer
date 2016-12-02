@@ -1,0 +1,35 @@
+{
+  "name": "mean-stack-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaoJinjin-Thomas/MEAN-stack-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaoJinjin-Thomas/MEAN-stack-learning/issues"
+  },
+  "homepage": "https://github.com/TaoJinjin-Thomas/MEAN-stack-learning#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-ng-annotate": "^2.0.0",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^2.0.0",
+    "jwt-simple": "^0.5.1",
+    "lodash": "^4.17.2",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^4.7.0"
+  }
+}
